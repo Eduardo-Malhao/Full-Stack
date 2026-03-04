@@ -1,0 +1,37 @@
+# Node modules (frontend + backend)
+frontend/node_modules/
+backend/node_modules/
+
+# Build outputs
+frontend/dist/
+backend/dist/
+frontend/build/
+backend/build/
+
+# Logs
+frontend/npm-debug.log
+backend/npm-debug.log
+frontend/yarn-debug.log
+backend/yarn-debug.log
+frontend/yarn-error.log
+backend/yarn-error.log
+frontend/pnpm-debug.log
+backend/pnpm-debug.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env files
+frontend/.env
+backend/.env
+frontend/.env.local
+backend/.env.local
+
+# Editor folders
+.vscode/
+.idea/
+
+# Optional: ignore test coverage reports
+frontend/coverage/
+backend/coverage/
